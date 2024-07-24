@@ -23,14 +23,20 @@
 ## Data Collection
 
 
+### EDA actions
+
 
 ## Data Cleanup
 
 
-## Machine Learning Techniques
+## ANN, CNN, LSTM-RNN or Transformer used
 
 
-## Study Observations
+## Observations
+
+
+
+## Outcome
 
 
 
