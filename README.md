@@ -86,6 +86,7 @@ While the current code doesn't include visualizations, you could enhance the pro
 1. A bar chart comparing LSTM and Claude sentiment confidence scores
 2. Word clouds of common terms in positive and negative reviews
 3. A pie chart showing the distribution of positive vs. negative reviews
+
 To implement these, consider using libraries like matplotlib or plotly, and integrate them into the Gradio interface.
 ## Future Improvements
 - Fine-tune the LSTM model on more recent data
