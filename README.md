@@ -98,7 +98,7 @@ To implement these, consider using libraries like matplotlib or plotly, and inte
 
 [(https://www.kaggle.com/datasets/denizbilginn/google-maps-restaurant-reviews)]
 
-[[(https://www.kaggle.com/datasets/denizbilginn/google-maps-restaurant-reviews)](https://beambox.com/townsquare/the-importance-of-google-reviews-for-the-hospitality-industry)]
+[(https://beambox.com/townsquare/the-importance-of-google-reviews-for-the-hospitality-industry)]
 
 ## Contributors
 - Darcy DeBord
