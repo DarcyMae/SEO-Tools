@@ -100,6 +100,11 @@ To implement these, consider using libraries like matplotlib or plotly, and inte
 
 [(https://beambox.com/townsquare/the-importance-of-google-reviews-for-the-hospitality-industry)]
 
+## Limitations To Some Project Files And Github
+Due to Github LFS (Large File System) we were unable to upload the following files.
+- Tokenizer.pickle 
+- SecondRun.keras
+
 ## Contributors
 - Darcy DeBord
 - Aaron Cranor
